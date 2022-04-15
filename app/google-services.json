@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "141466885720",
+    "project_id": "cabme-daae4",
+    "storage_bucket": "cabme-daae4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141466885720:android:c460e1fe1bf438e90fb42d",
+        "android_client_info": {
+          "package_name": "com.example.cabme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "141466885720-nj7gau8j5u37ft1an5bd4u7gqfjkhgvo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGZZw0Jy_z4KtqGzKTrDn1UfbSf4umogQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "141466885720-nj7gau8j5u37ft1an5bd4u7gqfjkhgvo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
